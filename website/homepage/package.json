@@ -15,7 +15,7 @@
     "chokidar-cli": "^3.0.0",
     "cssnano": "^5.0.8",
     "html-minifier": "^4.0.0",
-    "postcss-cli": "^9.0.1",
+    "postcss-cli": "^9.1.0",
     "postcss-hash": "^3.0.0",
     "tailwindcss": "^2.2.19"
   }
