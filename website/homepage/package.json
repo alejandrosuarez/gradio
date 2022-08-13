@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.3",
-    "@tailwindcss/typography": "^0.4.1",
+    "@tailwindcss/typography": "^0.5.4",
     "autoprefixer": "^10.4.0",
     "chokidar-cli": "^3.0.0",
     "cssnano": "^5.0.8",
