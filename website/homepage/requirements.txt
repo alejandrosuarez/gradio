@@ -3,3 +3,4 @@ jinja2
 requests
 pydrive
 pycairo
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
